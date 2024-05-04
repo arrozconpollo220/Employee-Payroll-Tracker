@@ -16,6 +16,12 @@ N/A
 Please refer to licence in the repo.
 
 ## Site URL
+https://arrozconpollo220.github.io/Employee-Payroll-Tracker/
+
+## GitHub URL
+https://github.com/arrozconpollo220/Employee-Payroll-Tracker
 
 
-## Screenshot 
+## Screenshots of site
+https://github.com/arrozconpollo220/Employee-Payroll-Tracker/blob/main/Screenshot%20Employee-Payroll-Tracker1.png?raw=true
+https://github.com/arrozconpollo220/Employee-Payroll-Tracker/blob/main/Screenshot%20Employee-Payroll-Tracker2.png?raw=true
