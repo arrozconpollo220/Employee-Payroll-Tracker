@@ -10,7 +10,7 @@ N/A
 This can be used to track employee's and thier salaries and give you an average of the salaries
 
 ## Credits
-N/A
+Keith Godfrey
 
 ## Licences 
 Please refer to licence in the repo.
